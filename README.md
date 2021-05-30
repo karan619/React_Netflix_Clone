@@ -1,4 +1,6 @@
 # React_Netflix_Clone
+![Project3](https://user-images.githubusercontent.com/22108887/120112766-2f930300-c145-11eb-8be0-21100f4bd0f2.PNG)
+
 
 # Getting Started with Create React App
 
