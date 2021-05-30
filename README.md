@@ -1,6 +1,36 @@
 # React_Netflix_Clone :tv:
 ![Project3](https://user-images.githubusercontent.com/22108887/120112766-2f930300-c145-11eb-8be0-21100f4bd0f2.PNG)
 
+## Features
+
+:tv: Random movies in the banner when refresh<br>
+:tv: Carousel of movies coming from the IMDB API<br>
+:tv: If the video is sent from the API it'll be render!<br>
+
+
+
+## Topics :
+
+:movie_camera: 1. Open Movie Database API <br>
+:movie_camera: 2. Using an API in React <br>
+:movie_camera: 3. Axios dependencie to make the requests <br>
+:movie_camera: 4. Transitions <br>
+:movie_camera: 5. Carousel effect <br>
+:movie_camera: 7. ASYNC Javascript <br>
+:movie_camera: 8. Promises <br>
+:movie_camera: 9. React Hooks <br>
+:movie_camera: 10. React Youtube component and movieTrailer <br>
+
+## Tech Stack
+
+:clapper: **Fron-end** React <br>
+:clapper: **Back-end** Firebase<br>
+
+
+## TODO :computer:
+
+:pushpin: Implement LogIn and Register session <br>
+
 
 # Getting Started with Create React App
 
